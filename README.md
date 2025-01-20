@@ -16,12 +16,7 @@ I work on web application, Unity and mobil application development projects.
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Merhaba!+Hoş+Geldiniz.;Flutter%2C+.NET%2C+Unity%2C+Python+Geliştiricisi;Yazılım+ve+Teknoloji;Projelerime+Göz+Atmayı+Unutmayın!)
 
-### The Most Used Technologies:
-1. ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-2. ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-3. ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-4. ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-5. ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
 
 
 
